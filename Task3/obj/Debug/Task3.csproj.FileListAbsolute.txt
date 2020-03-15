@@ -1,0 +1,7 @@
+C:\Users\Кекс\source\repos\Practice\Task3\bin\Debug\Task3.exe.config
+C:\Users\Кекс\source\repos\Practice\Task3\bin\Debug\Task3.exe
+C:\Users\Кекс\source\repos\Practice\Task3\bin\Debug\Task3.pdb
+C:\Users\Кекс\source\repos\Practice\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Кекс\source\repos\Practice\Task3\obj\Debug\Task3.exe
+C:\Users\Кекс\source\repos\Practice\Task3\obj\Debug\Task3.pdb
+C:\Users\Кекс\source\repos\Practice\Task3\obj\Debug\Task3.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Кекс\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Кекс\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Кекс\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Кекс\source\repos\Practice\Practice\obj\Debug\Task1,2.csprojAssemblyReference.cache
+C:\Users\Кекс\source\repos\Practice\Practice\obj\Debug\Task1,2.csproj.CoreCompileInputs.cache
+C:\Users\Кекс\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Кекс\source\repos\Practice\Practice\obj\Debug\Practice.pdb
